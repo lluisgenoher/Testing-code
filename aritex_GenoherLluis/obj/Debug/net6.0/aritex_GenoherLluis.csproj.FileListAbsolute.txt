@@ -1,0 +1,15 @@
+C:\Users\Lluis\source\repos\aritex_GenoherLluis\aritex_GenoherLluis\bin\Debug\net6.0\aritex_GenoherLluis.exe
+C:\Users\Lluis\source\repos\aritex_GenoherLluis\aritex_GenoherLluis\bin\Debug\net6.0\aritex_GenoherLluis.deps.json
+C:\Users\Lluis\source\repos\aritex_GenoherLluis\aritex_GenoherLluis\bin\Debug\net6.0\aritex_GenoherLluis.runtimeconfig.json
+C:\Users\Lluis\source\repos\aritex_GenoherLluis\aritex_GenoherLluis\bin\Debug\net6.0\aritex_GenoherLluis.dll
+C:\Users\Lluis\source\repos\aritex_GenoherLluis\aritex_GenoherLluis\bin\Debug\net6.0\aritex_GenoherLluis.pdb
+C:\Users\Lluis\source\repos\aritex_GenoherLluis\aritex_GenoherLluis\obj\Debug\net6.0\aritex_GenoherLluis.csproj.AssemblyReference.cache
+C:\Users\Lluis\source\repos\aritex_GenoherLluis\aritex_GenoherLluis\obj\Debug\net6.0\aritex_GenoherLluis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lluis\source\repos\aritex_GenoherLluis\aritex_GenoherLluis\obj\Debug\net6.0\aritex_GenoherLluis.AssemblyInfoInputs.cache
+C:\Users\Lluis\source\repos\aritex_GenoherLluis\aritex_GenoherLluis\obj\Debug\net6.0\aritex_GenoherLluis.AssemblyInfo.cs
+C:\Users\Lluis\source\repos\aritex_GenoherLluis\aritex_GenoherLluis\obj\Debug\net6.0\aritex_GenoherLluis.csproj.CoreCompileInputs.cache
+C:\Users\Lluis\source\repos\aritex_GenoherLluis\aritex_GenoherLluis\obj\Debug\net6.0\aritex_GenoherLluis.dll
+C:\Users\Lluis\source\repos\aritex_GenoherLluis\aritex_GenoherLluis\obj\Debug\net6.0\refint\aritex_GenoherLluis.dll
+C:\Users\Lluis\source\repos\aritex_GenoherLluis\aritex_GenoherLluis\obj\Debug\net6.0\aritex_GenoherLluis.pdb
+C:\Users\Lluis\source\repos\aritex_GenoherLluis\aritex_GenoherLluis\obj\Debug\net6.0\aritex_GenoherLluis.genruntimeconfig.cache
+C:\Users\Lluis\source\repos\aritex_GenoherLluis\aritex_GenoherLluis\obj\Debug\net6.0\ref\aritex_GenoherLluis.dll
